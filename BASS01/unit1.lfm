@@ -1,0 +1,116 @@
+object Form1: TForm1
+  Left = 422
+  Height = 328
+  Top = 145
+  Width = 318
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'BASS FX Demo'
+  ClientHeight = 328
+  ClientWidth = 318
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  Position = poWorkAreaCenter
+  LCLVersion = '3.4.0.0'
+  object Button1: TButton
+    Left = 16
+    Height = 41
+    Top = 8
+    Width = 196
+    Caption = 'Click here to Open and Play'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object TrackBar1: TTrackBar
+    Left = 16
+    Height = 224
+    Top = 72
+    Width = 33
+    Max = 30
+    OnChange = TrackBar1Change
+    Orientation = trVertical
+    Position = 15
+    TabOrder = 1
+  end
+  object TrackBar2: TTrackBar
+    Left = 56
+    Height = 224
+    Top = 72
+    Width = 33
+    Max = 30
+    OnChange = TrackBar2Change
+    Orientation = trVertical
+    Position = 15
+    TabOrder = 2
+  end
+  object TrackBar3: TTrackBar
+    Left = 96
+    Height = 224
+    Top = 72
+    Width = 33
+    Max = 30
+    OnChange = TrackBar3Change
+    Orientation = trVertical
+    Position = 15
+    TabOrder = 3
+  end
+  object TrackBar4: TTrackBar
+    Left = 152
+    Height = 224
+    Top = 72
+    Width = 33
+    Max = 20
+    OnChange = TrackBar4Change
+    Orientation = trVertical
+    Position = 20
+    TabOrder = 4
+  end
+  object Label5: TLabel
+    Left = 184
+    Height = 15
+    Top = 176
+    Width = 6
+    Caption = '0'
+  end
+  object Label1: TLabel
+    Left = 16
+    Height = 15
+    Top = 296
+    Width = 18
+    Caption = '125'
+  end
+  object Label2: TLabel
+    Left = 56
+    Height = 15
+    Top = 296
+    Width = 24
+    Caption = '1000'
+  end
+  object Label3: TLabel
+    Left = 96
+    Height = 15
+    Top = 296
+    Width = 24
+    Caption = '8000'
+  end
+  object Label4: TLabel
+    Left = 24
+    Height = 15
+    Top = 56
+    Width = 47
+    Caption = 'Equalizer'
+  end
+  object Label6: TLabel
+    Left = 140
+    Height = 15
+    Top = 56
+    Width = 36
+    Caption = 'Reverb'
+  end
+  object OpenDialog1: TOpenDialog
+    Filter = 'Playable files|*.mo3;*.xm;*.mod;*.s3m;*.it;*.mtm;*.umx;*.mp3;*.mp2;*.mp1;*.ogg;*.wav;*.aif|All files|*.*'
+    Options = [ofPathMustExist, ofFileMustExist, ofEnableSizing]
+    Left = 224
+    Top = 8
+  end
+end
