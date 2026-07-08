@@ -1,0 +1,79 @@
+samplevis.lpi Note: Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+ Progress: Found all unit files
+samplevis.lpr(1,19) Note: Added MODE Delphi syntax modifier after unit name.
+ : 
+ : *** Converting unit files belonging to project/package ***
+main.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+main.pas(13,11) Note: Added MODE Delphi syntax modifier after unit name.
+circle_vis.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+circle_vis.pas(1,17) Note: Added MODE Delphi syntax modifier after unit name.
+CommonTypes.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+CommonTypes.pas(1,18) Note: Added MODE Delphi syntax modifier after unit name.
+osc_vis.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+osc_vis.pas(1,14) Note: Added MODE Delphi syntax modifier after unit name.
+spectrum_vis.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+spectrum_vis.pas(1,19) Note: Added MODE Delphi syntax modifier after unit name.
+Bass.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+bass.pas(14,11) Note: Added MODE Delphi syntax modifier after unit name.
+ : 
+ : *** Fixing used units and Repairing form files ***
+main.pas Note: Removed property "ThumbLength".
+main.pas Note: Removed property "ThumbLength".
+main.pas Note: Removed property "ThumbLength".
+main.pas Note: Removed property "ThumbLength".
+main.pas Note: Removed property "ThumbLength".
+main.pas Note: Removed property "ThumbLength".
+main.pas Note: Removed property "TextHeight".
+main.pas Note: Removed property "OldCreateOrder".
+main.pas Note: Changed Top coord of TEdit from "32" to "18" inside TGroupBox.
+main.pas Note: Changed Left coord of TEdit from "211" to "209" inside TGroupBox.
+main.pas Note: Changed Top coord of TEdit from "32" to "18" inside TGroupBox.
+main.pas Note: Changed Left coord of TEdit from "136" to "134" inside TGroupBox.
+main.pas Note: Changed Top coord of TUpDown from "32" to "18" inside TGroupBox.
+main.pas Note: Changed Left coord of TUpDown from "244" to "242" inside TGroupBox.
+main.pas Note: Changed Top coord of TUpDown from "32" to "18" inside TGroupBox.
+main.pas Note: Changed Left coord of TUpDown from "169" to "167" inside TGroupBox.
+main.pas Note: Changed Top coord of TCheckBox from "16" to "2" inside TGroupBox.
+main.pas Note: Changed Left coord of TCheckBox from "8" to "6" inside TGroupBox.
+main.pas Note: Changed Top coord of TPanel from "40" to "26" inside TGroupBox.
+main.pas Note: Changed Left coord of TPanel from "72" to "70" inside TGroupBox.
+main.pas Note: Changed Top coord of TTrackBar from "64" to "50" inside TGroupBox.
+main.pas Note: Changed Left coord of TTrackBar from "112" to "110" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "16" to "2" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "208" to "206" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "16" to "2" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "136" to "134" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "40" to "26" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "8" to "6" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "72" to "58" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "72" to "70" inside TGroupBox.
+main.pas Note: Changed Top coord of TTrackBar from "40" to "26" inside TGroupBox.
+main.pas Note: Changed Left coord of TTrackBar from "8" to "6" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "20" to "6" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "8" to "6" inside TGroupBox.
+main.pas Note: Changed Top coord of TPanel from "160" to "146" inside TGroupBox.
+main.pas Note: Changed Left coord of TPanel from "176" to "174" inside TGroupBox.
+main.pas Note: Changed Top coord of TPanel from "160" to "146" inside TGroupBox.
+main.pas Note: Changed Left coord of TPanel from "64" to "62" inside TGroupBox.
+main.pas Note: Changed Top coord of TTrackBar from "16" to "2" inside TGroupBox.
+main.pas Note: Changed Left coord of TTrackBar from "48" to "46" inside TGroupBox.
+main.pas Note: Changed Top coord of TTrackBar from "48" to "34" inside TGroupBox.
+main.pas Note: Changed Left coord of TTrackBar from "48" to "46" inside TGroupBox.
+main.pas Note: Changed Top coord of TTrackBar from "112" to "98" inside TGroupBox.
+main.pas Note: Changed Left coord of TTrackBar from "48" to "46" inside TGroupBox.
+main.pas Note: Changed Top coord of TTrackBar from "80" to "66" inside TGroupBox.
+main.pas Note: Changed Left coord of TTrackBar from "48" to "46" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "160" to "146" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "120" to "118" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "160" to "146" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "8" to "6" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "120" to "106" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "14" to "12" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "88" to "74" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "13" to "11" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "56" to "42" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "10" to "8" inside TGroupBox.
+main.pas Note: Changed Top coord of TLabel from "24" to "10" inside TGroupBox.
+main.pas Note: Changed Left coord of TLabel from "10" to "8" inside TGroupBox.
+ Progress: Conversion took: 00:00:01
+ : Conversion Ready.
