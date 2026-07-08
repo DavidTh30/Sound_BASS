@@ -1,0 +1,44 @@
+BassTest.lpi Note: Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+ Progress: Found all unit files
+BassTest.lpr(7,18) Note: Added MODE Delphi syntax modifier after unit name.
+ : 
+ : *** Converting unit files belonging to project/package ***
+BTMain.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+BTMain.pas(5,13) Note: Added MODE Delphi syntax modifier after unit name.
+ : 
+ : *** Fixing used units and Repairing form files ***
+BTMain.pas Note: Removed property "TextHeight".
+BTMain.pas Note: Removed property "OldCreateOrder".
+BTMain.pas Note: Changed Top coord of TButton from "104" to "90" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "80" to "78" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "104" to "90" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TListBox from "16" to "2" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TListBox from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "104" to "90" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "104" to "90" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "80" to "78" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "104" to "102" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "56" to "54" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TListBox from "16" to "2" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TListBox from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "104" to "90" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "80" to "78" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "104" to "90" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "104" to "102" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "56" to "54" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TButton from "78" to "64" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TButton from "8" to "6" inside TGroupBox.
+BTMain.pas Note: Changed Top coord of TListBox from "16" to "2" inside TGroupBox.
+BTMain.pas Note: Changed Left coord of TListBox from "8" to "6" inside TGroupBox.
+ : Conversion Ready.
