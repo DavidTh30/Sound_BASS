@@ -97,7 +97,7 @@
         <IsPartOfProject Value="True"/>
       </Unit>
       <Unit>
-        <Filename Value="..\bass.pas"/>
+        <Filename Value="bass.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="BASS"/>
       </Unit>

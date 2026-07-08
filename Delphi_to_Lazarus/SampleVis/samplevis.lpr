@@ -8,8 +8,7 @@ uses
   circle_vis in 'circle_vis.pas',
   CommonTypes in 'CommonTypes.pas',
   osc_vis in 'osc_vis.pas',
-  spectrum_vis in 'spectrum_vis.pas',
-  Bass in '..\Bass.pas';
+  spectrum_vis in 'spectrum_vis.pas', BASS;
 
 begin
   Application.Title:='SampleVis';
